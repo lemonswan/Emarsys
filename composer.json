@@ -1,6 +1,6 @@
 {
-    "name": "snowcap/emarsys",
-    "description": "Emarsys RestFull API client",
+    "name": "lemonswan/emarsys",
+    "description": "Emarsys RestFull API client forked from snowcap for custom project",
     "require": {
         "php": ">=5.3.3",
         "lib-curl": "*"
